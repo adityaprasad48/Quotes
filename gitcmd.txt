@@ -1,0 +1,3 @@
+go to folder
+git init
+'git add file-name' so we can put into staging area  or to track of files
