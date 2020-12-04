@@ -1,3 +1,10 @@
 go to folder
 git init
-'git add file-name' so we can put into staging area  or to track of files
+'git add file-name' or 'git add .' so we can put into staging area  or to track of files
+'git commit -m '' : save point and -m means message
+git status
+
+
+
+
+git checkout filename for rollback into last repository.
